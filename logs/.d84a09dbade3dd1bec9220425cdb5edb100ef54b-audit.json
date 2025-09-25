@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/hani/Desktop/back/Node-Typscript-Mongo-Starter-main/logs/.d84a09dbade3dd1bec9220425cdb5edb100ef54b-audit.json",
+    "files": [
+        {
+            "date": 1758806281045,
+            "name": "/Users/hani/Desktop/back/Node-Typscript-Mongo-Starter-main/logs/2025-09-25.log",
+            "hash": "4fb29f17e446edb4956ced8897aae5e45b1e4d238acef4eb7a4d05b8193e396b"
+        }
+    ],
+    "hashType": "sha256"
+}

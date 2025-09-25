@@ -1,0 +1,27 @@
+# Environment
+NODE_ENV=development
+PORT=3001
+BASE_API_ENDPOINT=/api/v1
+BASE_URL=http://localhost:3001/api/v1
+API_PREFIX=/api/v1
+CLIENT_BASE_URL=http://localhost:3001/api/v1
+CORS_URL=*
+
+# Database
+DB_URI=
+DB_NAME=starter-db
+DB_NAME_TEST=starter-db-test
+DB_HOST=starterdb
+DB_PORT=6969
+LOG_DIR=./logs
+
+# Token Info
+ACCESS_TOKEN_VALIDITY_DAYS=30
+REFRESH_TOKEN_VALIDITY_DAYS=120
+TOKEN_ISSUER=token_issuer
+TOKEN_AUDIENCE=token_audience
+
+# Users
+SUPER_ADMIN_NAME=super
+SUPER_ADMIN_EMAIL=super@super.com
+SUPER_ADMIN_PASS=super123

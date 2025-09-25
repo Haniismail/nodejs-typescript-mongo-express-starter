@@ -1,0 +1,1 @@
+{"version":3,"file":"countAll.js","sourceRoot":"","sources":["../../../../src/database/repository/AdminRepo/countAll.ts"],"names":[],"mappings":";;AAAA,6CAA+C;AAE/C,MAAM,QAAQ,GAAG,KAAK,IAAqB,EAAE;IAC3C,OAAO,MAAM,kBAAU,CAAC,IAAI,CAAC;QAC3B,SAAS,EAAE,IAAI;KAChB,CAAC,CAAC,cAAc,EAAE,CAAC;AACtB,CAAC,CAAC;AAEF,kBAAe,QAAQ,CAAC"}

@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/hani/Desktop/Node-Typscript-Mongo-Starter-main/logs/.9005f02df7d7263dd99e059099529cc6dd865c76-audit.json",
+    "files": [
+        {
+            "date": 1757676316470,
+            "name": "/Users/hani/Desktop/Node-Typscript-Mongo-Starter-main/logs/2025-09-12.log",
+            "hash": "02369ae741ce108818510b1b46566ea32d59359df299421a2f462e9856be40cb"
+        },
+        {
+            "date": 1758476866775,
+            "name": "/Users/hani/Desktop/Node-Typscript-Mongo-Starter-main/logs/2025-09-21.log",
+            "hash": "7cec04ec8ecdb58fdef09ffd283c3236d6a1882a2c52e83d7f40c599629909cb"
+        }
+    ],
+    "hashType": "sha256"
+}
